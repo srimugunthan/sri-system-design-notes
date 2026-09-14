@@ -60,6 +60,9 @@ designing data intensive app:
 
 https://www.youtube.com/playlist?list=PLhgFs9q2EVg_rB-XT1zaJ3k9z0KVGrR2h 
 
+system design marathon tutorials
+https://www.youtube.com/watch?v=_PipiJ_i6Pk 
+
 #
 
 - 5 hour video https://www.youtube.com/watch?v=Vnm-ycSfJx4
