@@ -19,6 +19,9 @@ https://docs.google.com/document/d/1FyEukTOmGcYwslHQJoKL0m8oKI-IelzTopXpA3oPdfU/
 AWS architect
 https://docs.google.com/document/d/1r_oo33cuRSAgX9igHKZUMEMPWZPXA2uP82he3skBv7Q/edit?tab=t.0 
 
+ML sys design
+https://docs.google.com/document/d/17Krrg3pvskKMyoE4yyQGugpge_DZbRetINO-ZvI-Hiw/edit?tab=t.0#heading=h.u33b96l6gjra
+
 ## Main resources
 
 - https://medium.com/javarevisited/i-tried-30-system-design-courses-here-are-my-top-5-recommendations-for-2025-3c4971206a39
