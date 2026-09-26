@@ -86,6 +86,14 @@ https://medium.com/javarevisited/my-favorite-udemy-courses-to-learn-system-desig
 ## Low level design
 Awesome low level design: https://github.com/ashishps1/awesome-low-level-design
 
+https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW
+
+https://www.youtube.com/playlist?list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7
+
+https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
+
+https://github.com/bharatsesham/low-level-design-primer
+
 ## ML system design
 
 650 usecases: https://docs.google.com/spreadsheets/d/1F6IqP2xRbCTxKo7vqU01p4KkBabR8aE5vlGog1RyNRk/edit?gid=0#gid=0
