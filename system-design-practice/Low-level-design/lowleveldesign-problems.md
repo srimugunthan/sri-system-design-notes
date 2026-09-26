@@ -1,5 +1,6 @@
 **Low Level Design Interview Problems**
 
+
 **Easy Problems**
 
 - Design Parking Lot
@@ -8,11 +9,18 @@
 - Design Logging Framework
 - Design Traffic Signal Control System
 - Design Coffee Vending Machine
+- Design elevator system
 - Design a Task Management System
+- Design Snakes and ladders game
+- Design typeahead
+- Design a filesystem
+- Design cricbuzz
+
 
 **Medium Problems**
 
 - Design ATM
+- Design bookmyshow
 - Design LinkedIn
 - Design LRU Cache
 - Design Tic Tac Toe Game
@@ -41,3 +49,5 @@
 - Design Online Stock Brokerage System
 - Design Music Streaming Service like Spotify
 - Design Online Food Delivery Service like Swiggy
+- DEsign ratelimiter
+- DEsign message queue distributed cache
