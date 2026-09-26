@@ -1,5 +1,8 @@
-Design patterns are typically grouped into three categories (the classic Gang of Four taxonomy): **Creational**, **Structural**, and **Behavioral**.
+# Design patterns 
 
+<img width="800" height="1250" alt="image" src="https://github.com/user-attachments/assets/0a708612-d855-42d4-a54f-8b6485235990" />
+
+Design patterns are typically grouped into three categories (the classic Gang of Four taxonomy): **Creational**, **Structural**, and **Behavioral**.
 ## Creational Patterns
 Deal with object creation — decoupling *how* an object is created from *how it's used*.
 
@@ -41,3 +44,5 @@ Many of these patterns are essentially standard, battle-tested ways of *applying
 - **Facade** often helps with **Interface Segregation** from the client's perspective — exposing only what's needed and hiding subsystem complexity.
 
 If you want, I can map specific patterns to a system design you're working on (e.g., something in your guardrails middleware or agent pipelines) — often things like Strategy for pluggable detection rules or Chain of Responsibility for pipeline stages map naturally onto ML/agentic system architectures.
+
+
