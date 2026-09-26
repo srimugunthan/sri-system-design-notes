@@ -53,27 +53,27 @@
 - DEsign message queue distributed cache
 
 **Miscell**
-Design Cache Mechanism
-Design LinkedIn
-Design Amazon
-Design Airline Management System
-Design Stock Exchange System
-Design Learning Management System
+- Design Cache Mechanism
+- Design LinkedIn
+- Design Amazon
+- Design Airline Management System
+- Design Stock Exchange System
+- Design Learning Management System
 
-Design a Calendar Application
-Design (LLD) Payment System
-Design (LLD) Chat based system
-Design Food delivery app like Swiggy and Zomato Design Community Discussion Platform
-Design Restaurant Management System Design Bowling Alley Machine Design (LLD) Rate Limiter
+- Design a Calendar Application
+- Design (LLD) Payment System
+- Design (LLD) Chat based system
+- Design Food delivery app like Swiggy and Zomato Design Community Discussion Platform
+- Design Restaurant Management System Design Bowling Alley Machine Design (LLD) Rate Limiter
 
-Design Notification System
-Design Pastebin
-Design Twitter
-Design Dropbox
-Design Instagram
-Design YouTube
-Design Google Drive
-Design Web Crawler
-Design Facebook News Feed / Newsfeed System
-Design Ticket Master
-Design NearByFriends or Yelp
+- Design Notification System
+- Design Pastebin
+- Design Twitter
+- Design Dropbox
+- Design Instagram
+- Design YouTube
+- Design Google Drive
+- Design Web Crawler
+- Design Facebook News Feed / Newsfeed System
+- Design Ticket Master
+- Design NearByFriends or Yelp
