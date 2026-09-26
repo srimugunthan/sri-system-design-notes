@@ -83,6 +83,9 @@ https://medium.com/javarevisited/top-10-udemy-courses-to-learn-system-design-and
 My Favorite Udemy Courses to Learn System Design in Depth
 https://medium.com/javarevisited/my-favorite-udemy-courses-to-learn-system-design-in-2023-b64b5c403cea
 
+## Low level design
+Awesome low level design: https://github.com/ashishps1/awesome-low-level-design
+
 ## ML system design
 
 650 usecases: https://docs.google.com/spreadsheets/d/1F6IqP2xRbCTxKo7vqU01p4KkBabR8aE5vlGog1RyNRk/edit?gid=0#gid=0
