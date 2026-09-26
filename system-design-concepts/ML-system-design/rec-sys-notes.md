@@ -1,0 +1,7 @@
+- Retrieval vs. Ranking: **https://lnkd.in/gxcK_ff**
+- Real-time retrieval: **https://lnkd.in/g3ZuAVqr**
+- Personalization: **https://lnkd.in/gBKdKCZE**
+- Bandits: **https://lnkd.in/gW7F4X82**
+- Reinforcement learning: **https://lnkd.in/gAqV6bpb**
+- Query Matching: **https://lnkd.in/gHmfzjN4**
+- RecSys × LLMs: **https://lnkd.in/g6SAWv33**
